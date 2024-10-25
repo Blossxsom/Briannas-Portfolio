@@ -1,1 +1,13 @@
+.navbar{
+  background-color :#51a16a;
+  font-family: 'kode mono', monospace; 
+  font-weight: 400;
+} 
+
+.nav-link{ opacity: 0.7;}
+.nav-link:hover {
+  background-color:#1e4a28; 
+  opacity: 1;
+  color:#cc7a3d !important; 
+}
 
