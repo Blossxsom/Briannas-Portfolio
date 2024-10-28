@@ -14,3 +14,11 @@
   color:#cc7a3d !important; 
 }
 
+  header{
+  height: 900px;
+  width: 100%;
+  background-image:url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Apple_blossoms.jpg");
+  background-size:cover;
+  text-align: center;
+}
+
