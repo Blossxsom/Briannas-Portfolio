@@ -81,3 +81,26 @@ footer {
     background-color: #343a40;
     color: white;
 }
+
+  /*resume*/
+  h1, h2 {
+    text-align: center;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.contact {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.employment-item {
+    margin-bottom: 10px;
+}
