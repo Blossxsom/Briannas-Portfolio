@@ -40,3 +40,44 @@ text-align: center;
             font-size: 40px;
             color: #007bff;
         }
+
+ /*aboutMe*/
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p.lead {
+    font-size: 1.25rem;
+    color: #555;
+}
+
+/* About Section */
+#about img {
+    max-width: 100%;
+    border: 5px solid #fff;
+}
+
+/* Skills Section */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Contact Section */
+form .form-label {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
